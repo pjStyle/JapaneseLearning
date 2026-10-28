@@ -1,0 +1,1 @@
+"""Local Japanese translation practice."""

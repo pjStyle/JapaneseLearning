@@ -1,0 +1,11 @@
+.venv/
+.uv-cache/
+.uv-python/
+.hf-cache/
+models/
+data/
+outputs/
+__pycache__/
+.pytest_cache/
+.test-tmp/
+*.pyc
